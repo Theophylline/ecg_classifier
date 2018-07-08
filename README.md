@@ -7,3 +7,5 @@ ECG recordings are obtained from https://www.physionet.org/challenge/2017/. The 
 A model for ECG segmentation has already been trained (/misc/hmm_model.dll). You can use it to extract your own features.
 
 For more details, please see the Jupyter Notebook.
+
+PS: in case the notebook doesn't render on GitHub, please use this link: https://nbviewer.jupyter.org/github/Theophylline/ecg_classifier/blob/master/ecg_svm.ipynb
